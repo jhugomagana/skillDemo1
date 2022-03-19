@@ -1,4 +1,4 @@
 theme: jekyll-theme-tactile
-title: Skill Demo 1
-description: display 'skill demo 1' video file - ** filesize to large for gradescope  
+title: Skill Demo 1 - cse15lwi22
+description: this page is to display 'skill demo 1' video file - since filesize is too large for gradescope  
 show_downloads: true
