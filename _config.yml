@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+title: Skill Demo 1
+description: display 'skill demo 1' video file - ** filesize to large for gradescope  
+show_downloads: true
